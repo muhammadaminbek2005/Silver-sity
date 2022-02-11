@@ -1,0 +1,57 @@
+html{font-size: 20px;}
+/* !fonts  */
+@font-face {
+   font-family: 'Roboto-regular';
+   src: url(../Fonts/Roboto-Regular.ttf) type(true);
+   font-weight: regular;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Roboto-bold';
+   src: url(../Fonts/Roboto-Bold.ttf) type(true);
+   font-weight: bold;
+   font-style: normal;
+}
+/* !header */
+.header {
+}
+.logo {
+}
+.header-navbar {
+}
+.header-navbar__link {
+}
+/* !main */
+.page {
+}
+.page-box {
+}
+.page-box__img {
+}
+/* !article */
+.page-box__article {
+}
+.article {
+}
+.page-box__title {
+}
+.page-box__text {
+}
+.page-contact {
+}
+.page-contact__title {
+}
+.page-contact__text {
+}
+.page-contact__mail {
+}
+/* !footer */
+.footer {
+}
+.contact {
+}
+.contact__text {
+}
+.contact__link {
+}
